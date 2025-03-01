@@ -99,13 +99,13 @@ Adresowanie mieszane to kombinacja adresowania względnego i bezwzględnego.
 
 ### Formuły wyszukiwania
 
-- **[`=WYSZUKAJ.PIONOWO(szukana_wartość; tabela; nr_kolumny; [dokładne_dopasowanie])`](pplx://action/followup)** – Wyszukuje wartość pionowo w tabeli i zwraca wynik z określonej kolumny.  
+- **`=WYSZUKAJ.PIONOWO(szukana_wartość; tabela; nr_kolumny; [dokładne_dopasowanie])`** – Wyszukuje wartość pionowo w tabeli i zwraca wynik z określonej kolumny.  
   Przykład: `=WYSZUKAJ.PIONOWO(A1; B1:D10; 2; FAŁSZ)`
 
-- **[`=INDEKS(tablica; nr_wiersza; [nr_kolumny])`](pplx://action/followup)** – Zwraca wartość z określonego miejsca w tabeli (wiersz/kolumna).  
+- **`=INDEKS(tablica; nr_wiersza; [nr_kolumny])`** – Zwraca wartość z określonego miejsca w tabeli (wiersz/kolumna).  
   Przykład: `=INDEKS(A1:C10; 2; 3)`
 
-- **[`=PODAJ.POZYCJĘ(szukana_wartość; tablica; [typ_dopasowania])`](pplx://action/followup)** – Zwraca pozycję wartości w tabeli (numer wiersza lub kolumny).  
+- **`=PODAJ.POZYCJĘ(szukana_wartość; tablica; [typ_dopasowania])`** – Zwraca pozycję wartości w tabeli (numer wiersza lub kolumny).  
   Przykład: `=PODAJ.POZYCJĘ(A1; B1:B10; 0)`
 
 ---
@@ -121,8 +121,5 @@ Adresowanie mieszane to kombinacja adresowania względnego i bezwzględnego.
 - **`=ROK(data)`** – Zwraca rok z podanej daty.  
   Przykład: `=ROK(A1)`
 
-Citations:
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/56288453/ce14f1e6-614d-4d50-9c2a-17b15209ba3b/Matura-informatyka-2024-grudzien-probna-rozszerzona.pdf
-
----
-Answer from Perplexity: pplx.ai/share
+## Rozwiązanie
+- [grudzień 2024](https://github.com/Kajkitsu/maturaarkusze/blob/master/12_2024.md)
