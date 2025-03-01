@@ -121,5 +121,5 @@ Adresowanie mieszane to kombinacja adresowania względnego i bezwzględnego.
 - **`=ROK(data)`** – Zwraca rok z podanej daty.  
   Przykład: `=ROK(A1)`
 
-## Rozwiązanie
+## Rozwiązania
 - [grudzień 2024](https://github.com/Kajkitsu/maturaarkusze/blob/master/12_2024.md)
