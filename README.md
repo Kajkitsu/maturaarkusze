@@ -122,7 +122,5 @@ Adresowanie mieszane to kombinacja adresowania względnego i bezwzględnego.
   Przykład: `=ROK(A1)`
 
 ## Rozwiązania
-- [grudzień 2024](https://github.com/Kajkitsu/maturaarkusze/blob/master/12_2024/README.md)
-
-## Rozwiązania
-- [czerwiec 2024](https://github.com/Kajkitsu/maturaarkusze/blob/master/06_2024/README.md)
+- [grudzień 2024](https://github.com/Kajkitsu/maturaarkusze/blob/master/12_2024/)
+- [czerwiec 2024](https://github.com/Kajkitsu/maturaarkusze/blob/master/06_2024/)
